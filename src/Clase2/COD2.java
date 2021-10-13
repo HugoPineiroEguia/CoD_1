@@ -4,7 +4,7 @@ public class COD2 {
 
     public static void Main (String[] args) {
 
-        System.out.println("Esta es la clase 2, y ahora me gusta la reguetona");
+        System.out.println("Esta es la clase 2, y ahora no me gusta la reguetona");
 
     }
 }
